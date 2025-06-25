@@ -1,12 +1,13 @@
-## Hi there 👋
+
 
 ![Banner](https://github.com/sharmin133/sharmin133/blob/main/FullSTACK%20DEVELOPER.png?raw=true)
 
-## Hi 👋
-
-Seeking a Developer?  
-🏆 **Mst. Sharmin Akter is here!** 🏆
-# 💫 About Me:
+<p align="center">
+  <h2>Hi 👋</h2>
+  <p>Seeking a Developer?<br>
+  🏆   <span style="font-size: 26px;">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</span> 🏆</p>
+</p>
+# 💫 About Me
 I am a Full-Stack Developer specialized in MERN-stack technology.<br>I have completed several full-stack projects that demonstrate my ability to build real-world, dynamic web applications. I’m now ready to take the next step and join a professional team. Explore my GitHub and connect with me— I’m ready to contribute to meaningful growth through responsibility and innovation.
 
 
