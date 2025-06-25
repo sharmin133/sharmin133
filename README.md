@@ -12,7 +12,10 @@
 # 
 I am a Full-Stack Developer specialized in MERN-stack technology.I have completed several full-stack projects that demonstrate my ability to build real-world, dynamic web applications. I’m now ready to take the next step and join a professional team. Explore my GitHub and connect with me— I’m ready to contribute to meaningful growth through responsibility and innovation.
 
-
+- 🛒 Developing a **Wholesale Product Selling Website** with full-stack features.
+- 🍃 Learning and applying **MongoDB** for efficient data modeling and database management.
+- ⚙️ Working with **Node.js** to build robust back-end systems.
+- 🔐 Securing APIs using **JWT (JSON Web Token)** authentication.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mst. Sharmin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mst. Sharmin Akter) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin133akter@gmail.com) 
 
