@@ -8,7 +8,7 @@
 
 <p align="center">
   Seeking a Developer?<br>
-  <span style="font-size: 64px;">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</span>
+  <span style="font-size: 64px">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</span>
 </p>
 # 💫 About Me
 I am a Full-Stack Developer specialized in MERN-stack technology.<br>I have completed several full-stack projects that demonstrate my ability to build real-world, dynamic web applications. I’m now ready to take the next step and join a professional team. Explore my GitHub and connect with me— I’m ready to contribute to meaningful growth through responsibility and innovation.
