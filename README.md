@@ -7,8 +7,10 @@
 <h3 align="center">Seeking a Developer?</h3>
 
 <h1 align="center">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</h1>
-# 💫 About Me
-I am a Full-Stack Developer specialized in MERN-stack technology.<br>I have completed several full-stack projects that demonstrate my ability to build real-world, dynamic web applications. I’m now ready to take the next step and join a professional team. Explore my GitHub and connect with me— I’m ready to contribute to meaningful growth through responsibility and innovation.
+<h2 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h2>
+
+# 
+I am a Full-Stack Developer specialized in MERN-stack technology.I have completed several full-stack projects that demonstrate my ability to build real-world, dynamic web applications. I’m now ready to take the next step and join a professional team. Explore my GitHub and connect with me— I’m ready to contribute to meaningful growth through responsibility and innovation.
 
 
 ## 🌐 Socials:
