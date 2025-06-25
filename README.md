@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner]()
+![Banner](FullSTACK DEVELOPER.png)
 <!--
 **sharmin133/sharmin133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
