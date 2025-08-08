@@ -1,6 +1,6 @@
 
 
-![Banner](https://github.com/sharmin133/sharmin133/blob/main/FullSTACK%20DEVELOPER(2).png?raw=true)
+![Banner](https://github.com/sharmin133/sharmin133/blob/main/FullSTACK%20DEVELOPER%20(2).png)
 
 <h2 align="center">Hi 👋</h2>
 
