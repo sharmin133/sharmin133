@@ -26,9 +26,27 @@ I am a Full-Stack Developer specialized in MERN-stack technology.I have complete
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mst-sharmin-akter3740) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin133akter@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharmin133&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=sharmin133&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    alt="Sharmin's GitHub Stats"
+    height="180"
+    style="border-radius: 10px;"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=radical"
+    alt="Sharmin's GitHub Streak"
+    height="180"
+    style="border-radius: 10px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=radical"
+    alt="Top Languages"
+    height="180"
+    style="border-radius: 10px;"
+  />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
