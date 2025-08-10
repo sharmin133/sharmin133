@@ -28,14 +28,13 @@ I am a Full-Stack Developer specialized in MERN-stack technology.I have complete
 # 📊 GitHub Stats:
 
 
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="Sharmin's GitHub Stats"
+<img
+    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical"
+    alt="Fahamida Nimra's GitHub stats"
     height="180"
-    style="border-radius: 10px;"
-  />
+    style="border-radius: 10px;"
+  />
+
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=radical"
     alt="Sharmin's GitHub Streak"
