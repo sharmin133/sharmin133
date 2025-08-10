@@ -30,7 +30,7 @@ I am a Full-Stack Developer specialized in MERN-stack technology.I have complete
 ![](https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img
-    src="https://github-readme-stats.vercel.app/api?username=fahamidaNimra173&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical"
     alt="Fahamida Nimra's GitHub stats"
     height="180"
     style="border-radius: 10px;"
