@@ -30,7 +30,7 @@ I am a Full-Stack Developer specialized in MERN-stack technology.I have complete
 
 <img
     src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical"
-    alt="Fahamida Nimra's GitHub stats"
+    alt="MST sharmin's GitHub stats"
     height="180"
     style="border-radius: 10px;"
   />
