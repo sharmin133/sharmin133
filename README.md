@@ -28,23 +28,40 @@ I am a Full-Stack Developer specialized in MERN-stack technology.I have complete
 # 📊 GitHub Stats:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="Sharmin's GitHub Stats"
-    height="180"
-    style="border-radius: 10px;"
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" 
+    alt="Sharmin's GitHub Stats" 
+    height="180" 
+    style="border-radius: 10px;" 
   />
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=radical"
-    alt="Sharmin's GitHub Streak"
-    height="180"
-    style="border-radius: 10px;"
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=sharmin133&theme=radical" 
+    alt="Sharmin's GitHub Streak" 
+    height="180" 
+    style="border-radius: 10px;" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=radical"
-    alt="Top Languages"
-    height="180"
-    style="border-radius: 10px;"
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="180" 
+    style="border-radius: 10px;" 
+  />
+
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sharmin133&theme=radical" 
+    alt="Sharmin's Contribution Graph" 
+    style="border-radius: 10px;" 
   />
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
