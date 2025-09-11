@@ -62,7 +62,8 @@ I am a MERN Stack Developer with hands-on experience in building dynamic MERN-st
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mst-sharmin-akter3740) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin133akter@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-sharmin-akter3740) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin1781@gmail.com)
 
 # 📊 GitHub Stats:
 
