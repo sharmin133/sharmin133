@@ -65,11 +65,19 @@ I am a MERN Stack Developer with hands-on experience in building dynamic MERN-st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-sharmin-akter3740) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin1781@gmail.com)
 
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sharmin's GitHub Stats" height="180" style="border-radius: 10px;" /> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=radical" alt="Sharmin's GitHub Streak" height="180" style="border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=radical" alt="Top Languages" height="180" style="border-radius: 10px;" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+       alt="Sharmin's GitHub Stats" height="180" style="border-radius: 10px;" /> 
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sharmin133&theme=radical" 
+       alt="Sharmin's GitHub Streak" height="180" style="border-radius: 10px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=radical" 
+       alt="Top Languages" height="180" style="border-radius: 10px;" /> 
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
