@@ -1,11 +1,7 @@
 
-
 ![Banner](https://github.com/sharmin133/sharmin133/blob/main/MERN%20Stack%20Developer.png)
-
 <h2 align="center">Hi 👋</h2>
-
 <h3 align="center">Seeking a Developer???</h3>
-
 
 
 <h1 align="center">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</h1>
