@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋</h2>
 <h3 align="center">Seeking a Developer???</h3>
 
-<h1 align="center">🏆 <strong>Mst. Sharmin Akter is here!</strong> 🏆</h1>
+<h1 align="center"> <strong>Mst. Sharmin Akter is here!</strong> </h1>
 <h2 align="center">Professional MERN Stack Developer From Bangladesh</h2>
 
 # 
