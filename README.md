@@ -103,9 +103,9 @@ I design and build scalable, high-performance web applications combining modern 
 </div>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180" width:50%/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
+<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180" width:50%/>
 </div>
 
 </div> -->
