@@ -71,7 +71,7 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 📊 GitHub Stats
 
-<div>
+<!-- <div>
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,6 +87,26 @@ I design and build scalable, high-performance web applications combining modern 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
   
+</div>
+
+</div> -->
+
+<div>
+
+<div style="border:1px solid #444; padding:10px; margin-bottom:10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
+</div>
+
+<div style="border:1px solid #444; padding:10px; margin-bottom:10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180"/>
+</div>
+
+<div style="border:1px solid #444; padding:10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
 </div>
 
 </div>
