@@ -5,6 +5,8 @@
 
 I design and build scalable, high-performance web applications combining modern full-stack development with AI-driven solutions and intelligent architecture. My work focuses on bringing together Software Engineering, AI, and scalable systems, creating products designed not only to perform efficiently but to grow with purpose.
 
+---
+
 # 👨‍💻 Core Highlights
 
 - 🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, & Express.js 
@@ -31,7 +33,7 @@ I design and build scalable, high-performance web applications combining modern 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-sharmin-akter3740) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin1781@gmail.com)
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
