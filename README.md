@@ -14,6 +14,8 @@ I design and build scalable, high-performance web applications combining modern 
 - 🤖 AI/ML Researcher with multiple publications across AI, ML, and related research areas
 - 🎯 Passionate about clean architecture, performance optimization, and building real-world solutions
 
+---  
+
 # 🏢 Work Experience
 
 ###  Frontend Developer | Zettabyte Technology Inc.
@@ -27,11 +29,14 @@ I design and build scalable, high-performance web applications combining modern 
 - ⚡ Optimizing frontend performance and improving user experience  
 - 🔧 Integrating REST APIs and collaborating with backend teams for scalable applications
 
+---
 
 # 🌐 Where to find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-sharmin-akter3740) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin1781@gmail.com)
+
+---
 
 # 💻 Tech Stack
 
@@ -71,7 +76,7 @@ I design and build scalable, high-performance web applications combining modern 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+---
 
 # 📊 GitHub Stats
 
