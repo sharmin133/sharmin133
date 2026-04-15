@@ -91,7 +91,7 @@ I design and build scalable, high-performance web applications combining modern 
     </td>
     <td>
        <!-- <img src="https://streak-stats.demolab.com?user=sharmin133&theme=dark&background=0d1117&border=58a6ff" height="180"/>  -->
-      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=dark&background=0d1117&border=58a6ff&ring=58a6ff&fire=58a6ff&sideNums=58a6ff" height="180"/>
+     <img src="https://streak-stats.demolab.com?user=sharmin133&theme=dark&background=0d1117&border=f59e0b&ring=f59e0b&fire=f59e0b&sideNums=f59e0b" height="180"/>
     </td>
   </tr>
 </table>
