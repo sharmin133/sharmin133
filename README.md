@@ -3,14 +3,14 @@
 <h2>💻 Frontend Developer | Full-Stack Developer </h2>
 I design and build scalable, high-performance web applications combining modern full-stack development with AI-driven solutions and intelligent architecture. My work focuses on bringing together Software Engineering, Artificial Intelligence, and scalable systems, creating products designed not only to perform efficiently but to grow with purpose.
 
-## 👨‍💻 Core Highlights
+# 👨‍💻 Core Highlights
 
 - 🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, & Express.js 
 - 🔐 Exploring AI-powered software engineering and intelligent system design  
 - 🤖 AI/ML Researcher with multiple publications across AI/ML and related research areas  
 - 🎯 Passionate about clean architecture, performance optimization, and building real-world solutions
 
-## 🏢 Work Experience
+# 🏢 Work Experience
 
 ###  Frontend Developer | Zettabyte Technology Inc.
 
@@ -24,7 +24,7 @@ I design and build scalable, high-performance web applications combining modern 
 - 🔧 Integrating REST APIs and collaborating with backend teams for scalable applications
 
 
-## 🌐 Where to find me:
+# 🌐 Where to find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mst-sharmin-akter3740) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mstsharmin1781@gmail.com)
@@ -69,15 +69,15 @@ I design and build scalable, high-performance web applications combining modern 
 
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" width="100%"/>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
     </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" width="100%"/>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
     </td>
   </tr>
   <tr>
@@ -86,11 +86,11 @@ I design and build scalable, high-performance web applications combining modern 
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" width="100%"/>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
     </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" width="100%"/>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
     </td>
   </tr>
 </table>
