@@ -71,19 +71,29 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: column; gap: 8px; background-color: #0d1117; padding: 8px;">
-  <div style="display: flex; gap: 8px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180" style="border: 1px solid #30363d; border-radius: 6px; flex: 1;"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180" style="border: 1px solid #30363d; border-radius: 6px; flex: 1;"/>
-  </div>
-  <div style="display: flex;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180" style="border: 1px solid #30363d; border-radius: 6px; width: 100%;"/>
-  </div>
-  <div style="display: flex; gap: 8px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180" style="border: 1px solid #30363d; border-radius: 6px; flex: 1;"/>
-    <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180" style="border: 1px solid #30363d; border-radius: 6px; flex: 1;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <!-- <div>
 <div>
