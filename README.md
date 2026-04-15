@@ -74,17 +74,17 @@ I design and build scalable, high-performance web applications combining modern 
 <div style="width:100%; border:1px solid #22c55e; padding:15px; box-sizing:border-box;">
 
 <div style="display:flex; gap:20px; border-bottom:1px solid #22c55e; padding-bottom:15px; margin-bottom:15px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" style="width:50%;"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" style="width:50%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark"  height="180" style="width:45%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark"  height="180" style="width:45%;"/>
 </div>
 
 <div style="border-bottom:1px solid #22c55e; padding-bottom:15px; margin-bottom:15px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" style="width:100%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark"  height="180" style="width:100%;"/>
 </div>
 
 <div style="display:flex; gap:20px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" style="width:50%;"/>
-<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" style="width:50%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6"  height="180" style="width:45%;"/>
+<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue"  height="180" style="width:45%;"/>
 </div>
 
 </div>
