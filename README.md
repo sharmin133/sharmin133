@@ -1,10 +1,6 @@
 
-![Banner](https://github.com/sharmin133/sharmin133/blob/main/MERN%20Stack%20Developer.png)
-<h2 align="center">Hi </h2>
-<h3 align="center">Seeking a Developer ???</h3>
-
-<h1 align="center"> <strong>Mst. Sharmin Akter is here!</strong> </h1>
-<h2 align="center">Professional MERN Stack Developer From Bangladesh</h2>
+⚡ "Where clean architecture meets intelligent software engineering."
+<h2>👋 Hi, I'm Sharmin </h2>
 
 # 
 I am a MERN Stack Developer with hands-on experience in building dynamic MERN-stack projects. I have completed several applications focusing on user experience, API integration, and database management. I’m ready to take the next step and join a professional team, contributing meaningfully while growing through valuable opportunities. Explore my GitHub and connect with me—I’m eager to contribute to impactful projects with responsibility and innovation.
