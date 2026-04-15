@@ -90,24 +90,22 @@ I design and build scalable, high-performance web applications combining modern 
 </div>
 
 </div> -->
+<div style="border:1px solid #30363d; padding:15px;">
 
-<div>
-
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" width="420"/>
+<div style="border-bottom:1px solid #30363d; padding-bottom:15px; margin-bottom:15px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
+</div>
+
+<div style="border-bottom:1px solid #30363d; padding-bottom:15px; margin-bottom:15px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180"/>
 </div>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" width="860"/>
-</div>
-
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" width="420"/>
-  
+<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
 </div>
 
 </div>
