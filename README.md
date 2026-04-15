@@ -4,12 +4,14 @@
 I design and build scalable, high-performance web applications combining modern full-stack development with AI-driven solutions and intelligent architecture. My work focuses on bringing together Software Engineering, Artificial Intelligence, and scalable systems, creating products designed not only to perform efficiently but to grow with purpose.
 
 ## 👨‍💻 Core Highlights
--🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, Express.js & Mongoose 
--🔐 Exploring AI-powered software engineering and intelligent system design 
--🤖 AI/ML Researcher with multiple publications across AI/ML and related research areas  
--🎯 Passionate about clean architecture, performance optimization, and building real-world solutions
+
+- 🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, Express.js & Mongoose  
+- 🔐 Exploring AI-powered software engineering and intelligent system design  
+- 🤖 AI/ML Researcher with multiple publications across AI/ML and related research areas  
+- 🎯 Passionate about clean architecture, performance optimization, and building real-world solutions
 
 ## 🏢 Work Experience
+
 Frontend Developer | Zettabyte Technology Inc.
 📍 Onsite - Dhaka, Bangladesh  
 📅 October 2025 - Present  
