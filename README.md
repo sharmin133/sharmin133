@@ -71,15 +71,14 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 📊 GitHub Stats
 <div>
-  <div>
-    ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=tokyonight)
-    ![GitHub Streak](https://streak-stats.demolab.com?user=sharmin133&theme=tokyonight)
-  </div>
-  <div>
-    ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=tokyonight)
-
+<div>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sharmin133&theme=tokyonight)
+</div>
+<div>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=tokyonight)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=tokyonight)
-  </div>
+</div>
 </div>
 
 
