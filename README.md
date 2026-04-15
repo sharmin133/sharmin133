@@ -72,9 +72,11 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 📊 GitHub Stats
 
-![Sharmin's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharmin133&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=tokyonight)
+![Sharmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmin133&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmin133&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sharmin133&theme=tokyonight)
 
