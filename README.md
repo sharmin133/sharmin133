@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Sharmin </h2>
 
-<h2>💻 Frontend Developer | Full-Stack Developer </h2>
+💻 Frontend Developer | Full-Stack Developer 
 I design and build scalable, high-performance web applications combining modern full-stack development with AI-driven solutions and intelligent architecture. My work focuses on bringing together Software Engineering, AI, and scalable systems, creating products designed not only to perform efficiently but to grow with purpose.
 
 # 👨‍💻 Core Highlights
