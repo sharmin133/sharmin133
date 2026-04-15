@@ -71,13 +71,13 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -86,11 +86,11 @@ I design and build scalable, high-performance web applications combining modern 
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" width="100%"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" width="100%"/>
     </td>
   </tr>
 </table>
