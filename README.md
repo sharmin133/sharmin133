@@ -99,7 +99,7 @@ I design and build scalable, high-performance web applications combining modern 
 </div>
 
 <div style="border-bottom:1px solid #30363d; padding-bottom:15px; margin-bottom:15px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180" width="420"/>
 </div>
 
 <div>
