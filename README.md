@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Sharmin </h2>
+<h1>👋 Hi, I'm Sharmin </h2>
 
 <h2>💻 Frontend Developer | Full-Stack Developer </h2>
 I design and build scalable, high-performance web applications combining modern full-stack development with AI-driven solutions and intelligent architecture. My work focuses on bringing together Software Engineering, Artificial Intelligence, and scalable systems, creating products designed not only to perform efficiently but to grow with purpose.
@@ -112,18 +112,18 @@ I design and build scalable, high-performance web applications combining modern 
 
 <div style="width:100%; border:1px solid #22c55e; padding:15px; box-sizing:border-box;">
 
-<div style="display:flex; justify-content:space-between; border-bottom:1px solid #22c55e; padding-bottom:15px; margin-bottom:15px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" height="180"/>
+<div style="display:flex; justify-content:space-between; gap:20px; border-bottom:1px solid #22c55e; padding-bottom:15px; margin-bottom:15px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharmin133&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharmin133&theme=github_dark" width="49%"/>
 </div>
 
 <div style="border-bottom:1px solid #22c55e; padding-bottom:15px; margin-bottom:15px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" height="180" style="width:100%;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmin133&theme=github_dark" width="100%"/>
 </div>
 
-<div style="display:flex; justify-content:space-between;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" height="180"/>
-<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" height="180"/>
+<div style="display:flex; justify-content:space-between; gap:20px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharmin133&theme=github_dark&utcOffset=6" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sharmin133&theme=github-dark-blue" width="49%"/>
 </div>
 
 </div>
