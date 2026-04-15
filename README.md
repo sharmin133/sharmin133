@@ -5,7 +5,7 @@ I design and build scalable, high-performance web applications combining modern 
 
 ## 👨‍💻 Core Highlights
 
-- 🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, Express.js & Mongoose  
+- 🚀 Working across the MERN ecosystem with modern tools like Next.js, Prisma, PostgreSQL, TypeScript, Redux, & Express.js 
 - 🔐 Exploring AI-powered software engineering and intelligent system design  
 - 🤖 AI/ML Researcher with multiple publications across AI/ML and related research areas  
 - 🎯 Passionate about clean architecture, performance optimization, and building real-world solutions
