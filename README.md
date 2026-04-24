@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Sharmin .</h2>
+<h1>👋 Hi, I'm Sharmin </h2>
 
 💻 Frontend Developer | Full-Stack Developer <br>
 
