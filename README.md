@@ -21,7 +21,7 @@ I design and build scalable, high-performance web applications combining modern 
 ###  Frontend Developer | Zettabyte Technology Inc.
 
 📍 Onsite - Dhaka, Bangladesh  
-📅 June 2025 – Present
+📅 June 2025 – June 2026
 
 
 ### Key Responsibilities
