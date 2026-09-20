@@ -21,7 +21,7 @@ I design and build scalable, high-performance web applications combining modern 
 ###  Jr. Software Engineer | Zettabyte Technology Incorporation 
 
 📍 Onsite - Dhaka, Bangladesh  
-⏰ June 2025 - June 2026
+⏰ June 2025 - July 2026
 
 
 
