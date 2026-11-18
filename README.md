@@ -18,7 +18,7 @@ I design and build scalable, high-performance web applications combining modern 
 
 # 🏢 Work Experience
 
-###  Jr. Software Engineer | Zettabyte Technology Incorporation 
+###  Jr. Software Engineer | Zettabyte Technology Incorporation.
 
 📍 Onsite - Dhaka, Bangladesh  
 ⏰ June 2025 - Aug 2026
